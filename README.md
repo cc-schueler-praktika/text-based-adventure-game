@@ -18,8 +18,8 @@ Das soll den Zugang zu Softwareentwicklung auch langfristig aufrechthalten.
 
 ## Was soll gelernt werden?
 - Grundlagen Linux / Terminal
-- Grundlagen Programmierumgebung (IDE, Programmcode, Programmausführung)
 - Grundlagen Pythonprogrammierung
+- Grundlagen Programmierumgebung (IDE, Programmcode, Programmausführung)
 - Grundlagen Versionsverwaltung
 - Grundlagen OSS / gemeinsam Coden
 
@@ -28,14 +28,14 @@ Das soll den Zugang zu Softwareentwicklung auch langfristig aufrechthalten.
 1. Spielerunde mit der [Softwarebude](https://github.com/cc-stuttgart-praktika/softwarebude)
     - Eindruck des Spielkonzepts gewinnen
     - Lust bekommen, selbst ein Spiel zu entwickeln
-    - (virtuelen) Kontakt zu Kollegen herstellen
+    - (virtuellen) Kontakt zu Kollegen herstellen
 2. 📦 [Dateien und Verzeichnisse](https://github.com/cc-stuttgart-praktika/dateien-und-verzeichnisse)
 1. 📦 [Terminal Grundlagen](https://github.com/cc-stuttgart-praktika/terminal-grundlagen)
-1. 📦 Python Grundlagen 1
-    - Variablen, Bedingungen, Textausgabe, Eingabeverarbeitung
+1. 📦 [Python Grundlagen 1](https://github.com/cc-schueler-praktika/python-grundlagen-1)
+    - Variablen, Eingabeverarbeitung, Textausgabe, Datentypen, Kontrollstrukturen, Bedingungen
 1. Idee für eigenes Spiel entwickeln
-1. 📦 Python Grundlagen 2
-    - Funktion, (Klassen)
+1. 📦 [Python Grundlagen 2](https://github.com/cc-schueler-praktika/python-grundlagen-2)
+    - Module, Funktion, (Klassen)
 1. erstes Spiellevel implementieren
 1. 📦 [Versionsverwaltung](https://github.com/cc-stuttgart-praktika/versionsverwaltung)
 1. 📦 [Open Source Software](https://github.com/cc-stuttgart-praktika/open-source-software)
